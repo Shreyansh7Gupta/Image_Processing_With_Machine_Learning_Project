@@ -98,6 +98,12 @@ The model is trained and evaluated on the **RESIDE Dataset**, which includes:
 - Measures structural similarity between images
 - Range: 0 to 1 (higher is better)
 
+----
+## 🖼️ Model Output (Qualitative Results)
+
+| Hazy Input | Dehazed Output |
+|-----------|---------------|
+ ![](output.png) 
 ---
 
 ### 📊 Results Summary
