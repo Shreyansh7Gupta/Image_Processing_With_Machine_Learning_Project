@@ -101,8 +101,8 @@ The model is trained and evaluated on the **RESIDE Dataset**, which includes:
 ----
 ## 🖼️ Model Output (Qualitative Results)
 
-| Hazy Input | Dehazed Output |
-|-----------|---------------|
+| Hazy Input -> Dehazed Output |
+|--------------------------|
  ![](output.png) 
 ---
 
