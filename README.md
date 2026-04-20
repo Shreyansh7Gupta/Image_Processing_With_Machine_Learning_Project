@@ -1,4 +1,11 @@
 # Image_Processing_With_Machine_Learning_Project
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
+
 # 🌫️ CSIDNet: Compact Single Image Dehazing Network
 
 ## 📌 Overview
@@ -117,6 +124,15 @@ The model is trained and evaluated on the **RESIDE Dataset**, which includes:
 git clone <your-repo-link>
 cd CSIDNet
 
+```
 ---
+### 🔹 Step 2: Install Dependency
+```bash
+pip install numpy opencv-python matplotlib torch torchvision scikit-image tqdm
+```
 
-### Install Dependency
+--- 
+### 🔹 Step 3: Run Notebook
+```bash
+jupyter notebook CSIDNet_Implementation.ipynb
+```
