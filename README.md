@@ -27,7 +27,7 @@ The goal is to recover the clean image from a single hazy input.
 
 ---
 
-## 🏗️ Model Architecture
+## 💻 Model Architecture
 
 ### 🔹 Input Features (5 Channels)
 Instead of just RGB, the model uses:
