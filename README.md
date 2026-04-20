@@ -68,6 +68,7 @@ Final input tensor:
 Instead of predicting clean image directly:
 
 R(x) = I(x) - J(x)
+
 J(x) = I(x) - R(x)
 
 
