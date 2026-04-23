@@ -143,3 +143,6 @@ pip install numpy opencv-python matplotlib torch torchvision scikit-image tqdm
 ```bash
 jupyter notebook CSIDNet_Implementation.ipynb
 ```
+## Contributors
+- Shreyansh Gupta
+- Partha Sarathi Roychaudhuri (psrc2003)
